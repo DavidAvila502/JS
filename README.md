@@ -1,5 +1,5 @@
 # JS
 Trabajos en javascript previos al desarrollo movil
 
-##Nota
+## Nota
 Estos trabajos corren en Node.js
